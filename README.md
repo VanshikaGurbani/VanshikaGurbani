@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vanshika Gurbani
 
-🎓 **MS in Data Science @ Rutgers University**  
+🎓 **MS in Statistics - Data Science @ Rutgers University**  
 💡 Data Scientist | AI/ML Enthusiast | Skilled in NLP, GenAI, and Cloud (AWS, GCP)  
 🔭 Exploring Causal Inference, LLM Optimization, and MLOps Pipelines  
 
