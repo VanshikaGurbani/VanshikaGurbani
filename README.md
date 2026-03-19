@@ -10,7 +10,6 @@
 - [Growth Mindset Intervention](https://github.com/VanshikaGurbani/growth-mindset-intervention) – Causal Inference on student data
 - [BioNER](https://github.com/VanshikaGurbani/Multi-BIONER) – Biomedical Named Entity Recognition using BioBERT
 - [Image Captioning App](https://github.com/VanshikaGurbani/Image-Caption) – CNN + Transformer model with Streamlit UI
-- [Airbnb Revenue Optimization](https://github.com/VanshikaGurbani/Airbnb-Revenue) – Multi-modal regression project improving price prediction accuracy by 25%
 
 ---
 
