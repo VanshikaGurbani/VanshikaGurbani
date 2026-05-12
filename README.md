@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://vanshikagurbani.github.io">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/vanshikagurbani">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vanshika-gurbani/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:vanshika.gurban25@gmail.com">Email</a>
   ·&nbsp; Open to opportunities
 </p>
