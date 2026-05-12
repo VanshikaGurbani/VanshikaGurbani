@@ -36,6 +36,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **AI / ML**
@@ -54,6 +56,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Data and Visualization**
 
@@ -61,6 +65,7 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 **Cloud and Infra**
 
@@ -76,6 +81,17 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+![HuggingFace Hub](https://img.shields.io/badge/HuggingFace_Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Skills**
+
+![LLM Prompting](https://img.shields.io/badge/LLM_Prompting-8B5CF6?style=flat&logoColor=white)
+![Agentic Pipelines](https://img.shields.io/badge/Agentic_Pipelines-7C3AED?style=flat&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=flat&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6366F1?style=flat&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-4F46E5?style=flat&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat&logoColor=white)
 
 ---
 
