@@ -90,8 +90,6 @@ I build ML systems at the intersection of research and real-world impact. Curren
 
 ---
 
----
-
 <p align="center">
-  She/Her &nbsp;·&nbsp; Open to opportunities &nbsp;·&nbsp; <a href="https://vanshikagurbani.github.io">vanshikagurbani.github.io</a>
+  She/Her &nbsp;·&nbsp; Open to opportunities &nbsp;·&nbsp;
 </p>
