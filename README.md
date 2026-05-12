@@ -21,8 +21,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 - Physics-informed ML pipelines replacing MATLAB simulations for pharmaceutical granulation (R2 = 0.9984 on 125 DEM simulation cases)
 - 3D population balance MPC engine using L-BFGS-B optimization for wet granulation process control
 - AI tools for NSF proposal processing: KeyBERT clustering, HuggingFace summarization pipelines (BART, Pegasus, T5), and PuLP-based reviewer assignment
-- [SourceMD](https://github.com/VanshikaGurbani/SourceMD) — AI medical fact-checker that scores claims as SUPPORTED, UNSUPPORTED, or CONTRADICTED against clinical guidelines, deployed as a 4-service Docker stack on Railway and Vercel
-- [NutriPulse](https://github.com/VanshikaGurbani/NutriPulse) — production nutrition tracker with dual-API food search across 380K+ foods
+- [SourceMD](https://github.com/VanshikaGurbani/SourceMD): AI medical fact-checker that scores claims as SUPPORTED, UNSUPPORTED, or CONTRADICTED against clinical guidelines, deployed as a 4-service Docker stack on Railway and Vercel
+- [NutriPulse](https://github.com/VanshikaGurbani/NutriPulse): production nutrition tracker with dual-API food search across 380K+ foods
 
 ---
 
@@ -89,14 +89,6 @@ I build ML systems at the intersection of research and real-world impact. Curren
 | [**Growth Mindset Study**](https://github.com/VanshikaGurbani/growth-mindset-intervention) | Causal inference on 10K+ student records using 5 estimators including Causal Forests and X-Learner | EconML, scikit-learn, R |
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshikaGurbani&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGurbani&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff" height="160"/>
-</p>
 
 ---
 
