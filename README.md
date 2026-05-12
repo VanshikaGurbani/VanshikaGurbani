@@ -89,8 +89,3 @@ I build ML systems at the intersection of research and real-world impact. Curren
 | [**Image Caption Generator**](https://github.com/VanshikaGurbani/Image-Caption) | CNN + Transformer captioning model (BLEU = 0.80) trained on 120K+ images, deployed as a live Streamlit app | InceptionV3, Transformers, Streamlit |
 | [**Growth Mindset Study**](https://github.com/VanshikaGurbani/growth-mindset-intervention) | Causal inference on 10K+ student records using 5 estimators including Causal Forests and X-Learner | EconML, scikit-learn, R |
 
----
-
-<p align="center">
-  She/Her &nbsp;·&nbsp; Open to opportunities &nbsp;·&nbsp;
-</p>
