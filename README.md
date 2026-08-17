@@ -1,7 +1,7 @@
 <h1 align="center">Vanshika Gurbani</h1>
 
 <p align="center">
-<b>Software Engineer and Researcher &nbsp;·&nbsp; MS Statistics - Data Science, Rutgers University</b>
+<b>AI/ML Engineer and Researcher &nbsp;·&nbsp; MS Statistics - Data Science, Rutgers University</b>
 </p>
 
 <p align="center">
