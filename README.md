@@ -13,7 +13,7 @@ Open to opportunities (open to relocation)
 
 ---
 
-I build ML systems at the intersection of research and real-world impact. Currently a **Software Engineer and Researcher** at the **Particulate Systems Lab at Rutgers**, working on physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. I care about systems that are not just accurate, but actually useful.
+I build ML systems at the intersection of research and real-world impact. Currently a **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers**, working on physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. I care about systems that are not just accurate, but actually useful.
 
 ---
 
