@@ -40,44 +40,55 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**AI / LLM Systems**
+**AI & LLM Systems**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-6D28D9?style=flat&logoColor=white)
+![Vector Search (ChromaDB)](https://img.shields.io/badge/Vector_Search_(ChromaDB)-6D28D9?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4F46E5?style=flat&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-4338CA?style=flat&logoColor=white)
 
-**Web and Backend**
+**Backend & Frontend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Data and Visualization**
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**ML & Data**
+
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-0EA5E9?style=flat&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-0284C7?style=flat&logoColor=white)
+![Random Forests](https://img.shields.io/badge/Random_Forests-0369A1?style=flat&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-075985?style=flat&logoColor=white)
+
+**Visualization**
+
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Cloud and DevOps**
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -96,8 +107,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 
 ## Research
 
-- **Clustering and Visualization of Research Proposals Using Sentence Embeddings and Unsupervised Learning** — ongoing (NSF-funded program)
-- **Data-Driven Acceleration of PBM-DEM Granulation Model via ML-Based Prediction** — ongoing
+- **Clustering and Visualization of Research Proposals Using Sentence Embeddings and Unsupervised Learning**, ongoing (NSF-funded program)
+- **Data-Driven Acceleration of PBM-DEM Granulation Model via ML-Based Prediction**, ongoing
 
 ---
 
