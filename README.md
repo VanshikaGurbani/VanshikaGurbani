@@ -23,8 +23,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 - Gradient boosting and random forest surrogate models that turn multi-hour physics simulations into sub-second predictions
 - CI/CD and deployment ownership for shared research tools across GitHub, JupyterHub, and university HPC infrastructure
 - AI tools for NSF proposal processing: SentenceTransformers + KeyBERT clustering, PuLP-based reviewer assignment with conflict-of-interest checks
-- [SourceMD](https://github.com/VanshikaGurbani/SourceMD): AI medical fact-checker that scores claims as SUPPORTED, UNSUPPORTED, or CONTRADICTED against clinical guidelines, deployed as a 4-service Docker stack on Render and Vercel
-- [AI DevOps Agent](https://github.com/sugarwatermelon300-crypto/zerotoagent): autonomous agent that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix, built in a single day at the Cerebral Valley x Vercel x Google DeepMind hackathon
+- [SourceMD](https://github.com/VanshikaGurbani/SourceMD): agentic RAG fact-checker that scores AI-generated medical answers against real clinical guidelines, deployed across Vercel, Render, and Neon serverless PostgreSQL, with a 70% backend memory cut from switching to ONNX-quantized FastEmbed embeddings
+- [AI DevOps Agent](https://github.com/sugarwatermelon300-crypto/zerotoagent): autonomous agent powered by Gemini 3 Flash that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix, built in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon
 - [NutriPulse](https://github.com/VanshikaGurbani/NutriPulse): production nutrition tracker with dual-API food search across 380K+ foods
 
 ---
@@ -44,11 +44,14 @@ I build ML systems at the intersection of research and real-world impact. Curren
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![BioBERT](https://img.shields.io/badge/BioBERT-FFD21E?style=flat&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat&logoColor=white)
 ![Vector Search (ChromaDB)](https://img.shields.io/badge/Vector_Search_(ChromaDB)-6D28D9?style=flat&logoColor=white)
+![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-5B21B6?style=flat&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-4C1D95?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4F46E5?style=flat&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-4338CA?style=flat&logoColor=white)
@@ -61,6 +64,7 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -69,7 +73,9 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-0EA5E9?style=flat&logoColor=white)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-0284C7?style=flat&logoColor=white)
 ![Random Forests](https://img.shields.io/badge/Random_Forests-0369A1?style=flat&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-0C4A6E?style=flat&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![ETL & Data Pipelines](https://img.shields.io/badge/ETL_%26_Data_Pipelines-075985?style=flat&logoColor=white)
 
@@ -78,6 +84,7 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel Dashboards](https://img.shields.io/badge/Excel_Dashboards-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -96,8 +103,8 @@ I build ML systems at the intersection of research and real-world impact. Curren
 
 | Project | What it does | Stack |
 |---------|---------------|-------|
-| [**SourceMD**](https://github.com/VanshikaGurbani/SourceMD) | AI medical fact-checker: verifies claims against ~844 chunks from clinical guidelines (NICE, AHA), scores SUPPORTED / UNSUPPORTED / CONTRADICTED, and returns a 0-100 trust score with a corrected, source-backed rewrite. Deployed on Render and Vercel | LangGraph, FastAPI, PostgreSQL, ChromaDB, React, TypeScript, Docker |
-| [**AI DevOps Agent**](https://github.com/sugarwatermelon300-crypto/zerotoagent) | Autonomous agent that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix. Built from whiteboard to demo in a single day at the Cerebral Valley x Vercel x Google DeepMind hackathon | Next.js, Vercel AI SDK, Gemini, Supabase, GitHub API, Slack |
+| [**SourceMD**](https://github.com/VanshikaGurbani/SourceMD) | Agentic RAG fact-checker: verifies claims against ~844 chunks from clinical guidelines (NICE, AHA), scores SUPPORTED / UNSUPPORTED / CONTRADICTED, and returns a 0-100 trust score with a corrected, source-backed rewrite. Cut backend memory 70% with ONNX-quantized FastEmbed embeddings; deployed across Vercel, Render, and Neon | LangGraph, FastAPI, ChromaDB, FastEmbed, Neon, React, TypeScript, Docker |
+| [**AI DevOps Agent**](https://github.com/sugarwatermelon300-crypto/zerotoagent) | Autonomous agent that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix. Built from whiteboard to demo in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon | Next.js, Vercel AI SDK, Gemini 3 Flash, Supabase, GitHub API, Slack |
 | [**NutriPulse**](https://github.com/VanshikaGurbani/NutriPulse) | Full-stack nutrition tracker with dual-API food search across 380K+ foods, custom 5-dimensional relevance scoring that cut match errors by 75%, and Plotly analytics dashboards | Python, Streamlit, Plotly, CalorieNinjas API, USDA FoodData Central |
 | [**BioNER**](https://github.com/VanshikaGurbani/Multi-BIONER) | Multi-task biomedical NER model identifying genes, diseases, and chemicals across 5 benchmark corpora, reaching an F1 score over 90% | PyTorch, BioBERT, HuggingFace Transformers |
 | [**Image Caption Generator**](https://github.com/VanshikaGurbani/Image-Caption) | CNN + Transformer captioning model (BLEU = 0.80) trained on 120K+ images, deployed as a live Streamlit app | InceptionV3, Transformers, Streamlit |
