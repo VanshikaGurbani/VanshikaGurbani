@@ -13,7 +13,7 @@ Open to opportunities (open to relocation)
 
 ---
 
-I build ML systems at the intersection of research and real-world impact. Currently a **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, working on physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. I care about systems that are not just accurate, but actually useful.
+I build ML systems at the intersection of research and real-world impact. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
 
 ---
 
@@ -47,6 +47,7 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![BioBERT](https://img.shields.io/badge/BioBERT-FFD21E?style=flat&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat&logoColor=white)
 ![Vector Search (ChromaDB)](https://img.shields.io/badge/Vector_Search_(ChromaDB)-6D28D9?style=flat&logoColor=white)
@@ -96,6 +97,19 @@ I build ML systems at the intersection of research and real-world impact. Curren
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VanshikaGurbani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGurbani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaGurbani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
