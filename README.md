@@ -103,8 +103,8 @@ I build ML systems at the intersection of research and real-world impact. I most
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VanshikaGurbani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGurbani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/VanshikaGurbani?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=VanshikaGurbani&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
