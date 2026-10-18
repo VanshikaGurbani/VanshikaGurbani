@@ -13,7 +13,7 @@ Open to opportunities &nbsp;·&nbsp; On-site / Hybrid / Remote
 
 ---
 
-I'm an **Agentic AI/ML Engineer** with around 2 years of experience. I experiment with new AI tools constantly, and I love building things that take **messy data** and make sense of it, whether that ends up as an agent, an ML model, or a full-stack product. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
+I'm an **Agentic AI/ML Engineer** with around 2 years of experience. I experiment with new AI tools constantly, and I love building things that take **messy data** and make sense of it, whether that ends up as an agent, an ML model, or a full-stack product. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
 
 ---
 
