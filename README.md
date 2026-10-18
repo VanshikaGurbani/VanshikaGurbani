@@ -1,7 +1,7 @@
 <h1 align="center">Vanshika Gurbani</h1>
 
 <p align="center">
-<b>AI/ML Engineer &nbsp;·&nbsp; MS Statistics - Data Science, Rutgers University</b>
+<b>Agentic AI/ML Engineer &nbsp;·&nbsp; AI-native &nbsp;·&nbsp; MS Statistics - Data Science, Rutgers University</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Open to opportunities (open to relocation)
 
 ---
 
-I build ML systems at the intersection of research and real-world impact. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
+I'm an **Agentic AI/ML Engineer** and I'm **AI-native**: I experiment with new AI tools constantly, and I love building things that take **messy data** and make sense of it, whether that ends up as an agent, an ML model, or a full-stack product. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
 
 ---
 
@@ -25,7 +25,6 @@ I build ML systems at the intersection of research and real-world impact. I most
 - AI tools for NSF proposal processing: SentenceTransformers + KeyBERT clustering, PuLP-based reviewer assignment with conflict-of-interest checks
 - [SourceMD](https://github.com/VanshikaGurbani/SourceMD): agentic RAG fact-checker that scores AI-generated medical answers against real clinical guidelines, deployed across Vercel, Render, and Neon serverless PostgreSQL, with a 45% peak-memory cut from replacing PyTorch embeddings with ONNX-quantized FastEmbed
 - [AI DevOps Agent](https://github.com/VanshikaGurbani/aidevopsagent): autonomous agent powered by Gemini 3 Flash that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix, built in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon
-- [NutriPulse](https://github.com/VanshikaGurbani/NutriPulse): Streamlit nutrition tracker that parses plain-English meals using CalorieNinjas with a USDA FoodData Central fallback (380K+ foods)
 
 ---
 
@@ -119,7 +118,6 @@ I build ML systems at the intersection of research and real-world impact. I most
 |---------|---------------|-------|
 | [**SourceMD**](https://github.com/VanshikaGurbani/SourceMD) | Agentic RAG fact-checker: verifies claims against ~844 chunks from clinical guidelines (NICE, AHA), scores SUPPORTED / UNSUPPORTED / CONTRADICTED, and returns a 0-100 trust score with a corrected, source-backed rewrite. Cut peak memory 45% with ONNX-quantized FastEmbed embeddings; deployed across Vercel, Render, and Neon | LangGraph, FastAPI, ChromaDB, FastEmbed, Neon, React, TypeScript, Docker |
 | [**AI DevOps Agent**](https://github.com/VanshikaGurbani/aidevopsagent) | Autonomous agent that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix. Built from whiteboard to demo in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon | Next.js, Vercel AI SDK, Gemini 3 Flash, Supabase, GitHub API, Slack |
-| [**NutriPulse**](https://github.com/VanshikaGurbani/NutriPulse) | Personal project: Streamlit nutrition tracker with dual-API food search (CalorieNinjas + USDA, 380K+ foods), a heuristic relevance scorer for USDA matches, TDEE calculator, nutrition grade, and Plotly dashboards | Python, Streamlit, Plotly, CalorieNinjas API, USDA FoodData Central |
 | [**BioNER**](https://github.com/VanshikaGurbani/Multi-BIONER) | M.S. thesis: BioBERT token-level NER on 5 biomedical corpora comparing single-task and multi-task learning; single-task macro-F1 of 0.93 (BC4CHEMD) and 0.91 (NCBI Disease), 0.71 on JNLPBA | PyTorch, BioBERT, HuggingFace Transformers |
 | [**Image Caption Generator**](https://github.com/VanshikaGurbani/Image-Caption) | Undergraduate thesis: CNN + LSTM and InceptionV3 + Transformer image captioning models trained on Flickr8k and compared with BLEU | TensorFlow, Keras, InceptionV3, Transformers |
 | [**Growth Mindset Study**](https://github.com/VanshikaGurbani/growth-mindset-intervention) | Causal inference on 10,391 synthetic student records using regression, IPW, T-/S-Learners, and Causal Forest; ATE of about 0.41 to 0.42 across all specifications | EconML, scikit-learn, XGBoost |
