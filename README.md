@@ -8,12 +8,12 @@
 <a href="https://vanshikagurbani.github.io">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/vanshika-gurbani/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:vanshika.gurbani25@gmail.com">Email</a> &nbsp;·&nbsp;
-Open to opportunities (open to relocation)
+Open to opportunities &nbsp;·&nbsp; On-site / Hybrid / Remote
 </p>
 
 ---
 
-I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, and I love building things that take **messy data** and make sense of it, whether that ends up as an agent, an ML model, or a full-stack product. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
+I'm an **Agentic AI/ML Engineer** with around 2 years of experience. I experiment with new AI tools constantly, and I love building things that take **messy data** and make sense of it, whether that ends up as an agent, an ML model, or a full-stack product. I most recently worked as an **AI/ML Engineer and Researcher** at the **Particulate Systems Lab at Rutgers University**, building physics-informed ML, pharmaceutical manufacturing simulation, and AI tooling for NSF grant workflows. Now looking for the next place to build systems that are not just accurate, but actually useful.
 
 ---
 
@@ -38,6 +38,7 @@ I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, an
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **AI & LLM Systems**
 
@@ -46,13 +47,14 @@ I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, an
 ![BioBERT](https://img.shields.io/badge/BioBERT-FFD21E?style=flat&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logoColor=white)
+![Model Context Protocol (MCP)](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=flat&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat&logoColor=white)
 ![Vector Search (ChromaDB)](https://img.shields.io/badge/Vector_Search_(ChromaDB)-6D28D9?style=flat&logoColor=white)
 ![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-5B21B6?style=flat&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4C1D95?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-7E22CE?style=flat&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4F46E5?style=flat&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-4338CA?style=flat&logoColor=white)
 
@@ -71,6 +73,11 @@ I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, an
 **ML & Data**
 
 ![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-0EA5E9?style=flat&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-0891B2?style=flat&logoColor=white)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-0E7490?style=flat&logoColor=white)
+![Surrogate Modeling](https://img.shields.io/badge/Surrogate_Modeling-155E75?style=flat&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-164E63?style=flat&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-0F766E?style=flat&logoColor=white)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-0284C7?style=flat&logoColor=white)
 ![Random Forests](https://img.shields.io/badge/Random_Forests-0369A1?style=flat&logoColor=white)
 ![PuLP](https://img.shields.io/badge/PuLP-0C4A6E?style=flat&logoColor=white)
@@ -89,6 +96,7 @@ I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, an
 **Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logoColor=white)
@@ -112,23 +120,26 @@ I'm an **Agentic AI/ML Engineer**. I experiment with new AI tools constantly, an
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | What it does | Stack |
-|---------|---------------|-------|
-| [**SourceMD**](https://github.com/VanshikaGurbani/SourceMD) | Agentic RAG fact-checker: verifies claims against ~844 chunks from clinical guidelines (NICE, AHA), scores SUPPORTED / UNSUPPORTED / CONTRADICTED, and returns a 0-100 trust score with a corrected, source-backed rewrite. Cut peak memory 45% with ONNX-quantized FastEmbed embeddings; deployed across Vercel, Render, and Neon | LangGraph, FastAPI, ChromaDB, FastEmbed, Neon, React, TypeScript, Docker |
-| [**AI DevOps Agent**](https://github.com/VanshikaGurbani/aidevopsagent) | Autonomous agent that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix. Built from whiteboard to demo in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon | Next.js, Vercel AI SDK, Gemini 3 Flash, Supabase, GitHub API, Slack |
-| [**BioNER**](https://github.com/VanshikaGurbani/Multi-BIONER) | M.S. thesis: BioBERT token-level NER on 5 biomedical corpora comparing single-task and multi-task learning; single-task macro-F1 of 0.93 (BC4CHEMD) and 0.91 (NCBI Disease), 0.71 on JNLPBA | PyTorch, BioBERT, HuggingFace Transformers |
-| [**Image Caption Generator**](https://github.com/VanshikaGurbani/Image-Caption) | Undergraduate thesis: CNN + LSTM and InceptionV3 + Transformer image captioning models trained on Flickr8k and compared with BLEU | TensorFlow, Keras, InceptionV3, Transformers |
-| [**Growth Mindset Study**](https://github.com/VanshikaGurbani/growth-mindset-intervention) | Causal inference on 10,391 synthetic student records using regression, IPW, T-/S-Learners, and Causal Forest; ATE of about 0.41 to 0.42 across all specifications | EconML, scikit-learn, XGBoost |
-| [**Rossmann Sales Forecasting**](https://github.com/VanshikaGurbani/rossmann_forecasting) | Forecasts daily sales for 1,115 stores (about 1M rows) and quantifies the causal lift from promotions with SHAP explainability. Random Forest (RMSE 357) cut error 54% vs. Prophet and 72% vs. SARIMAX; average promo lift $39.96 per day (+0.90%) | Python, XGBoost, Random Forest, Prophet, SHAP |
-| [**Gold Trading Strategy**](https://github.com/VanshikaGurbani/GoldTradingStratergy) | Backtests three Google Trends and technical-indicator strategies for gold against Buy & Hold. Hybrid reached a Sharpe ratio of 1.28 vs. 0.70; Trends correlated with price levels (r = 0.79) but not returns | Python, pandas, pytrends, yfinance |
-| [**Banking GenAI Assistant**](https://github.com/VanshikaGurbani/banking-genai-assistant) | Banking chatbot combining Rasa (DIET intents, validated forms) with Gemini for open-ended questions and spending analysis | Rasa, Gemini, FastAPI, Streamlit, Docker |
-| [**AI Job Application Automation**](https://github.com/VanshikaGurbani/job-automation-agent-app) | Scrapes LinkedIn jobs, tailors a LaTeX resume per job, writes cover letters, and scores job fit with Gemini | Python, Gemini, Selenium, Streamlit, LaTeX |
-| [**Job Postings Insights**](https://github.com/VanshikaGurbani/Job_Postings_Insights) | NLP pipeline that extracts skills, salary, and remote-work fields from job postings and clusters them with sentence embeddings | Python, Sentence-Transformers, KMeans, UMAP |
-| [**Multi-Factor Alpha Research**](https://github.com/VanshikaGurbani/alpha-research) | Quant research framework: 7 factors, sector/beta-neutral long-short portfolios, cost-aware backtesting, Barra-style risk model, Streamlit dashboard | Python, pandas, Plotly, Docker |
-| [**Coffee Trading with Weather Data**](https://github.com/VanshikaGurbani/Commodity-Trading-based-on-alternate-Data-Sources-Weather-Data) | Coffee trading strategies using Brazilian weather indicators (frost, drought, rainfall) with technical analysis and weather-based position sizing | Python, pandas, Alternative Data |
-| [**Personalized Movie Recommender**](https://github.com/VanshikaGurbani/recommender-system) | Streamlit recommender on MovieLens that scores movies by genre, mood, personality, and history, with Cohere-powered search and explanations | Python, Streamlit, Cohere |
+Every project below has a full write-up with a pipeline diagram and key numbers on my [portfolio](https://vanshikagurbani.github.io/projects/).
+
+| Project | What it does | Stack | Details |
+|---------|--------------|-------|---------|
+| [**SourceMD**](https://github.com/VanshikaGurbani/SourceMD) | AI-powered medical fact-checker that scores every claim in an AI answer against real clinical guidelines.<br><sub>~844 guideline chunks · 0-100 trust score · 45% lower peak memory</sub> | LangGraph, LLaMA 3.3 70B (Groq), Claude API (fallback), ChromaDB, FastEmbed (ONNX), Tavily | [Case study](https://vanshikagurbani.github.io/projects/sourcemd/) |
+| [**AI DevOps Agent**](https://github.com/VanshikaGurbani/aidevopsagent) | Autonomous DevOps agent that monitors live Vercel deployments, detects failures, and opens GitHub PRs with fixes. Built at Zero to Agent, a Cerebral Valley, Vercel, and Google DeepMind hackathon.<br><sub>Webhook to fix PR · Slack rollbacks · built in one day</sub> | Next.js, Vercel AI SDK, Gemini 3 Flash, Supabase, GitHub API, Slack | [Case study](https://vanshikagurbani.github.io/projects/ai-devops-agent/) |
+| [**BioNER**](https://github.com/VanshikaGurbani/Multi-BIONER) | NLP system that tags genes, diseases, and chemicals in biomedical text, comparing single-task and multi-task BioBERT.<br><sub>5 corpora · IOBES tagging · single-task vs multi-task BioBERT</sub> | PyTorch, BioBERT, HuggingFace, Multi-task Learning | [Case study](https://vanshikagurbani.github.io/projects/bioner/) |
+| [**Image Captioning**](https://github.com/VanshikaGurbani/Image-Caption) | Image captioning with CNN + LSTM and CNN + Transformer models, compared on the Flickr8k dataset.<br><sub>Flickr8k · CNN + LSTM vs CNN + Transformer · BLEU compared</sub> | TensorFlow, Keras, CNN, LSTM, Transformers, InceptionV3 | [Case study](https://vanshikagurbani.github.io/projects/image-captioning/) |
+| [**Growth Mindset Study**](https://github.com/VanshikaGurbani/growth-mindset-intervention) | Causal inference study measuring whether growth mindset interventions actually improve student achievement.<br><sub>10,391 records · 7 specifications · ATE of about 0.41</sub> | Python, Causal Inference, EconML, Scikit-learn, XGBoost | [Case study](https://vanshikagurbani.github.io/projects/growth-mindset/) |
+| [**Gold Trading Strategy**](https://github.com/VanshikaGurbani/GoldTradingStratergy) | Backtested Google Trends and technical-indicator strategies for gold against a Buy & Hold benchmark.<br><sub>Sharpe 1.28 vs 0.70 · risk-adjusted gain, not raw-return win</sub> | Python, pandas, scikit-learn, pytrends, yfinance, Backtesting | [Case study](https://vanshikagurbani.github.io/projects/gold-trading/) |
+| [**Coffee + Weather Trading**](https://github.com/VanshikaGurbani/Commodity-Trading-based-on-alternate-Data-Sources-Weather-Data) | Commodity trading strategies that use Brazilian weather as an alternative data source for coffee futures.<br><sub>3 strategies · held-out test Sep 2023 to Aug 2024</sub> | Python, pandas, Alternative Data, Technical Analysis, Backtesting | [Case study](https://vanshikagurbani.github.io/projects/coffee-weather-trading/) |
+| [**Alpha Research Pipeline**](https://github.com/VanshikaGurbani/alpha-research) | Quant research pipeline that builds, backtests, and risk-models multi-factor long-short equity portfolios.<br><sub>7 factors · sector- and beta-neutral · cost-aware backtests</sub> | Python, pandas, scikit-learn, Plotly, Streamlit, Docker | [Case study](https://vanshikagurbani.github.io/projects/alpha-research/) |
+| [**Banking GenAI Assistant**](https://github.com/VanshikaGurbani/banking-genai-assistant) | Conversational banking assistant that pairs Rasa with Gemini for grounded answers and spending insights.<br><sub>Rasa 3.x + Gemini fallback · FastAPI + Streamlit</sub> | Rasa, Google Gemini, FastAPI, Streamlit, Docker, Python | [Case study](https://vanshikagurbani.github.io/projects/banking-genai-assistant/) |
+| [**Job Application Automation**](https://github.com/VanshikaGurbani/job-automation-agent-app) | Gemini-powered tool that scrapes jobs, tailors resumes, writes cover letters, and scores job fit.<br><sub>Scrape · tailor resume · write cover letter · score fit</sub> | Python, Gemini 2.5 Flash, Selenium, Streamlit, LaTeX, Google Drive API | [Case study](https://vanshikagurbani.github.io/projects/job-automation/) |
+| [**Movie Recommender**](https://github.com/VanshikaGurbani/recommender-system) | Movie recommender that adapts to your personality, mood, and viewing history, with LLM-powered search.<br><sub>MovieLens · mood + personality scoring · Cohere explanations</sub> | Python, Streamlit, Cohere, pandas, MovieLens | [Case study](https://vanshikagurbani.github.io/projects/movie-recommender/) |
+| [**Job Postings Insights**](https://github.com/VanshikaGurbani/Job_Postings_Insights) | NLP pipeline that turns messy job postings into structured skills, salary, and remote-work insights.<br><sub>123,849 postings · embeddings + KMeans + UMAP</sub> | Python, Sentence-Transformers, scikit-learn, UMAP, NLP, pandas | [Case study](https://vanshikagurbani.github.io/projects/job-postings-insights/) |
+| [**Rossmann Forecasting**](https://github.com/VanshikaGurbani/rossmann_forecasting) | Retail sales forecasting with causal promotion analysis and SHAP explainability.<br><sub>RMSE 357 vs ~780 Prophet · SHAP explanations · 1,115 stores</sub> | Python, XGBoost, Random Forest, Prophet, SHAP, Causal Inference | [Case study](https://vanshikagurbani.github.io/projects/rossmann-forecasting/) |
+| **Airbnb Pricing Model** | Pricing analytics pipeline that models Airbnb listing prices with regression to support data-driven pricing strategies for hosts.<br><sub>10K+ listings · 25% better pricing accuracy</sub> | R, Python, SQL, Tableau, Regression | [Case study](https://vanshikagurbani.github.io/projects/airbnb-pricing/) |
 
 ---
 
