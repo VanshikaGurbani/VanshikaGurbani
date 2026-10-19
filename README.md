@@ -17,17 +17,6 @@ I'm an **Agentic AI/ML Engineer** with around 2 years of experience. I experimen
 
 ---
 
-## What I'm Building
-
-- Physics-informed ML pipelines that replace MATLAB granulation simulations with Python, cutting runtime by 35% and validation time by 60%
-- Gradient boosting and random forest surrogate models that turn multi-hour physics simulations into sub-second predictions
-- CI/CD and deployment ownership for shared research tools across GitHub, JupyterHub, and university HPC infrastructure
-- AI tools for NSF proposal processing: SentenceTransformers + KeyBERT clustering, PuLP-based reviewer assignment with conflict-of-interest checks
-- [SourceMD](https://github.com/VanshikaGurbani/SourceMD): agentic RAG fact-checker that scores AI-generated medical answers against real clinical guidelines, deployed across Vercel, Render, and Neon serverless PostgreSQL, with a 45% peak-memory cut from replacing PyTorch embeddings with ONNX-quantized FastEmbed
-- [AI DevOps Agent](https://github.com/VanshikaGurbani/aidevopsagent): autonomous agent powered by Gemini 3 Flash that monitors live Vercel deployments, detects build failures and security issues, and opens a GitHub PR with a fix, built in a single day at Zero to Agent, a Cerebral Valley x Vercel x Google DeepMind hackathon
-
----
-
 ## Tech Stack
 
 **Languages**
