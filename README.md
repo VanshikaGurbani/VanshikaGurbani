@@ -96,19 +96,6 @@ I'm an **Agentic AI/ML Engineer** with around 2 years of experience. I experimen
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/VanshikaGurbani?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=VanshikaGurbani&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaGurbani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Projects
 
 Every project below has a full write-up with a pipeline diagram and key numbers on my [portfolio](https://vanshikagurbani.github.io/projects/).
